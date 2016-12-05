@@ -1,0 +1,6 @@
+; Id $
+name = Follow Plus
+description = Additional Follow Options
+package = Custom
+core = 7.x
+stylesheets[all][] = styles.css
